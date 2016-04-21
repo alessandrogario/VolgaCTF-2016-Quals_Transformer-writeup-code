@@ -2,7 +2,7 @@
     this code has been written for an article about the "transformer"
     challenge found in the VolgaCTF 2016 Quals.
 
-    todo: link the article here
+    Blog post: https://alessandrogar.io/ctf/volgactf-2016-quals-transformer-writeup/
 */
 
 #include <iostream>
